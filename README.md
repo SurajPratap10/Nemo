@@ -2,7 +2,9 @@
 
   <br>
   <hr>
+  
 Text Stacks and Frameworks:
+  <br>
 
 1) JS
 2) Node JS
@@ -16,5 +18,6 @@ Text Stacks and Frameworks:
   <img src="w6.jpg"/>
 </p>
 
+  <hr>
 Live Site: https://nemo-ai-bot-sp10.netlify.app/
 
