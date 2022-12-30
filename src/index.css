@@ -108,14 +108,14 @@ footer {
     white-space: pre-wrap;
 }
 .chat-bubble.bot .post {
-    background: rgba(114, 107, 107, 0.23);
+    background: rgba(0, 0, 0, 0.23);
 }
 .loader {
     padding: 0 20px;
     width: fit-content;
     max-width: 100%;
     min-height: 40px;
-    background: #2b2b36;
+    background: rgba(0, 0, 0, 0.23);
     border-radius: 22px;
     display: flex;
     align-items: center;
