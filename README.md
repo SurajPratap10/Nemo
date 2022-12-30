@@ -9,8 +9,9 @@ Text Stacks and Frameworks:
 1) JS
 2) Node JS
 3) VITE
-4) Express JS
-5) Open AI
+4) Vue JS
+5) Express JS
+6) Open AI
 <h3>
 <br>
   
