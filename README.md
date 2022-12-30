@@ -19,5 +19,5 @@ Text Stacks and Frameworks:
 </p>
 
   <hr>
-Live Site: https://nemo-ai-bot-sp10.netlify.app/
+Live Site: https://nemo-ai-bot-chat.netlify.app/
 
