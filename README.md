@@ -1,3 +1,7 @@
+
+  <br>  
+  <br>
+
 <h3>Nemo is an AI Bot with an elegant user interface that resembles the ChatGPT app, communicating with advanced GPT3 model API. It returns the most logical textual data on the given question be it any question related to personal life or coding.
 
   <br>
