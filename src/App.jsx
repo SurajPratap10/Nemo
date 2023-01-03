@@ -133,7 +133,7 @@ function App() {
                     onKeyUp={onKeyUp}
                 />
                 <div className="send-button" onClick={onSubmit}>
-                    <img src={send} />
+                        <img src={send} />
                 </div>
             </footer>
         </main>
