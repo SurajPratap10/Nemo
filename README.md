@@ -41,7 +41,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 
-## Deployon Netlify
+## Deploy on Netlify
 
 The easiest way to deploy any app is to use the [Netlify Platform](https://app.netlify.com/sites/nemo-ai-bot-chat/overview).
 <br>
