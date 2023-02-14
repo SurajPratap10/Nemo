@@ -6,7 +6,13 @@ import { Configuration, OpenAIApi } from "openai";
 dotenv.config();
 
 const app = express();
-app.use(cors());
+// app.use(cors());
+app.use(cors( {
+    origin: "*",
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  }));
+app.use(express.json());
 app.use(express.json());
 
 app.get("/", async (req, res) => {
